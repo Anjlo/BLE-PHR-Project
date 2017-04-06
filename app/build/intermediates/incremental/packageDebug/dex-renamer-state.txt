@@ -1,0 +1,7 @@
+#Tue Nov 22 03:05:18 EST 2016
+base.0=C\:\\Users\\Anj\\Desktop\\Nest Please\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4f401633a476841b8f7b1c52ecab2ac0ce8bbf10
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Anj\\Desktop\\Nest Please\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_683752b48c2412e8fd63b219792495328ce90697\\classes.dex
+base.1=C\:\\Users\\Anj\\Desktop\\Nest Please\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_683752b48c2412e8fd63b219792495328ce90697
+file.0=C\:\\Users\\Anj\\Desktop\\Nest Please\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4f401633a476841b8f7b1c52ecab2ac0ce8bbf10\\classes.dex

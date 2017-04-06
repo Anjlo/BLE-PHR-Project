@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.1.1_611456daae20afc0c58578c3dba255e85fbc4b22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c27d3e6667ba2f5df3cb6b26e1928cc4b761027e">
+        <dex dex="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_683752b48c2412e8fd63b219792495328ce90697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.1.1_833073fbb11f5e73982f2caa631187824b0b91b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_eb184e197a0507bb5229d7b00768dc98a7e38726\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_eb184e197a0507bb5229d7b00768dc98a7e38726\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="72fde8d8bfb2a36e8a105bbef6f76ce1cdf165ff">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e6b7064aa3d8d1dfe130c4098227868e87630824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72fde8d8bfb2a36e8a105bbef6f76ce1cdf165ff">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e6b7064aa3d8d1dfe130c4098227868e87630824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bd639780a68e2a122301364d609d59f7074a692">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d8236ef439bb60746c16acd0d4b68e25efb0ae71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="259a1d037b47f358e97a2a117f56113116d0757c">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d8236ef439bb60746c16acd0d4b68e25efb0ae71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.2.0_6c388010c21078335a77c551c17ba03ee3913194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_cee3f31382996c84e074a31b61ecd31d6dc7d1b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_45c2e8a6bedc8b3ff127965184242da805071861\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_ec66e9bfba073616561f36c14de0fa1d804f2a86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_d93228a1280053903cec8a41acef2168d5e25c3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_2c5e3f9e47f02c8c11159ac812bce7d164999395\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_7f6c75740a88409a45771365660de786a3dec8c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_6610b3a2e6cb17d73fb377c812553edee8b5a2fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.2.0_6c388010c21078335a77c551c17ba03ee3913194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_657dc1955f1209ea738fa3ec4db87c7c86716eae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_73f7df71beadcb3079ce68cf2cebb8b0e6e1362e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.2.0_1fa5428c7a49d35276ab9e819da7374066307a1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_4c91dc42063318661e6ed101d8cd064e34fe09bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="66309155fb85f435a548532dc2db07d3a09ac203">
+        <dex dex="C:\Users\Anj\Desktop\Nest Please\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4f401633a476841b8f7b1c52ecab2ac0ce8bbf10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_73f7df71beadcb3079ce68cf2cebb8b0e6e1362e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Anj\Documents\Android Applications\NestClone\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_05751743f9bb615bd0edf7959e29778e74f10c5a\classes.dex" />
+    </item>
+
+</items>
